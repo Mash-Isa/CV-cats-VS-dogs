@@ -1,6 +1,6 @@
 # Computer Vision project: Cats VS Dogs classification
 
-** Authors: **
+**Authors:**
 
 Mariia Isaieva
 
