@@ -1,13 +1,13 @@
 # Computer Vision project: Cats VS Dogs classification
 
-**Authors:**
+##**Authors:**
 
 Mariia Isaieva
 
 Lin Yang
 
-**Structure:**
+##**Structure:**
 
-- Cats_Dogs_Classification notebook: CNN models for both dogs and cats combined together into one model.
+- **Cats_Dogs_Classification notebook:** CNN models for both dogs and cats combined together into one model.
 
 ![Cat and Dog](cat_dog.jpg)
