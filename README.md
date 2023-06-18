@@ -3,6 +3,7 @@
 Authors:
 
 Mariia Isaieva
+
 Lin Yang
 
 ![Cat and Dog](cat_dog.jpg)
